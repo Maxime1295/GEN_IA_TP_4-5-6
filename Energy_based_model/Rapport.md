@@ -27,3 +27,4 @@ Le modèle JEM repose sur un **CNN** avec plusieurs couches de convolution pour 
 
 L'algorithme utilise également **Langevin Dynamics** pour générer des images réalistes à partir de bruit, en ajustant les pixels de l'image au fil des itérations pour minimiser l'énergie.
 
+![alt text](image.png)
