@@ -1,4 +1,4 @@
-# GEN_IA_TP_4
+# GEN_IA_TP_4-5-6
 
 Dans ce TP, nous avons étudié 3 types de modèles :
 
